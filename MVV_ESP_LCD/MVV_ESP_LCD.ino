@@ -24,6 +24,7 @@ using namespace std;
 #include "Free_Fonts.h"
 #include "Free_Sans.h"
 #include <Button2.h>
+//TestKommentar
 
 #define MAX_INCLUDE_TYPE 10
 #define MAX_INCLUDE_LINE 10
